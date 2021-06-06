@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot]('https://static.wixstatic.com/media/56096f_dd752eefda084d1ab4357d8f9ce5b3e7~mv2.png')
+![screenshot](https://user-images.githubusercontent.com/43118078/120909604-01ce2280-c64d-11eb-90e1-b486da3dc3bb.png)
 
 This project was built to test my basic CSS and HTML skills, following the responsive design.
 
