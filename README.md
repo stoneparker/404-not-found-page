@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot]('https://github.com/stoneparker/404-not-found-page/blob/master/assets/screenshot.png?raw=true')
+![screenshot]('https://static.wixstatic.com/media/56096f_dd752eefda084d1ab4357d8f9ce5b3e7~mv2.png')
 
 This project was built to test my basic CSS and HTML skills, following the responsive design.
 
